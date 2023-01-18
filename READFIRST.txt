@@ -1,0 +1,1 @@
+1. create "db_pos" database sa phpmyadmin tapos i import yung db
